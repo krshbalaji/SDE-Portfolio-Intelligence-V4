@@ -1,0 +1,43 @@
+{
+    "project":"SDE Portfolio Intelligence",
+    "version":"4.0.0",
+
+    "spreadsheet":{
+
+        "name":"SDE Portfolio Intelligence V4",
+
+        "timezone":"Asia/Kolkata",
+
+        "locale":"en_IN"
+
+    },
+
+    "menus":[
+
+    ],
+
+    "modules":[
+
+    ],
+
+    "sheets":[
+
+    ],
+
+    "dashboard":[
+
+    ],
+
+    "reports":[
+
+    ],
+
+    "telegram":{
+
+    },
+
+    "settings":{
+
+    }
+
+}
